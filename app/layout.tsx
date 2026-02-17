@@ -10,8 +10,9 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Aditya Patil",
-  description: "All about me",
+  title: "Vishnu — Founder & Systems Builder",
+  description:
+    "Founder building scalable businesses in lead generation, automation, and AI systems.",
 };
 
 export default function RootLayout({
