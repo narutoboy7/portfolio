@@ -252,7 +252,7 @@ export default function Home() {
             >
               <Image
                 src="/me.png"
-                alt="Vishnu"
+                alt="Vishnu — Founder, operator, and product builder specializing in lead generation and AI systems"
                 fill
                 className={`object-contain transition-all duration-700 ${showEasterEgg ? "grayscale-0 scale-105" : "grayscale"
                   }`}
@@ -567,7 +567,7 @@ export default function Home() {
       </AnimatePresence>
 
       {/* ── BOTTOM NAV ── */}
-      <nav className="fixed bottom-6 left-1/2 flex -translate-x-1/2 items-center gap-3 rounded-full border border-gray-200 dark:border-zinc-700 bg-white/70 dark:bg-zinc-900/80 px-4 py-3 shadow-sm backdrop-blur-md transition-all hover:bg-white/90 dark:hover:bg-zinc-900 sm:gap-6 sm:px-6">
+      <nav aria-label="Primary navigation and social links" className="fixed bottom-6 left-1/2 flex -translate-x-1/2 items-center gap-3 rounded-full border border-gray-200 dark:border-zinc-700 bg-white/70 dark:bg-zinc-900/80 px-4 py-3 shadow-sm backdrop-blur-md transition-all hover:bg-white/90 dark:hover:bg-zinc-900 sm:gap-6 sm:px-6">
         {/* Mode Toggle Switch */}
         <div className="flex items-center">
           <button

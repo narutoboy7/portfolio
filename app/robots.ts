@@ -1,11 +1,15 @@
-import { MetadataRoute } from 'next'
+import { MetadataRoute } from "next";
 
 export default function robots(): MetadataRoute.Robots {
     return {
-        rules: {
-            userAgent: '*',
-            allow: '/',
-        },
-        sitemap: 'https://www.justaditya.com/sitemap.xml',
-    }
+        rules: [
+            {
+                userAgent: "*",
+                allow: "/",
+                disallow: ["/_next/", "/api/"],
+            },
+        ],
+        sitemap: "https://www.justaditya.com/sitemap.xml",
+        host: "https://www.justaditya.com",
+    };
 }
