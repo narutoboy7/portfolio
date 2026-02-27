@@ -9,7 +9,7 @@ export default function robots(): MetadataRoute.Robots {
                 disallow: ["/_next/", "/api/"],
             },
         ],
-        sitemap: "https://www.justaditya.com/sitemap.xml",
-        host: "https://www.justaditya.com",
+        sitemap: "https://vishnukantsahil.online/sitemap.xml",
+        host: "https://vishnukantsahil.online",
     };
 }

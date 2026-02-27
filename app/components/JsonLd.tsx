@@ -3,7 +3,7 @@ export default function JsonLd() {
         "@context": "https://schema.org",
         "@type": "Person",
         name: "Vishnu",
-        url: "https://www.justaditya.com",
+        url: "https://vishnukantsahil.online",
         jobTitle: "Founder & Systems Builder",
         description:
             "Founder building scalable businesses in lead generation, automation, and AI systems. Operator, product builder, and systems architect.",
@@ -27,7 +27,7 @@ export default function JsonLd() {
         "@context": "https://schema.org",
         "@type": "WebSite",
         name: "Vishnu — Founder & Systems Builder",
-        url: "https://www.justaditya.com",
+        url: "https://vishnukantsahil.online",
         description:
             "Personal portfolio of Vishnu — founder, operator, and product builder creating scalable businesses in lead generation, automation, and AI.",
     };

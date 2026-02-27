@@ -10,7 +10,7 @@ const dmSans = DM_Sans({
   weight: ["400", "500", "700"],
 });
 
-const SITE_URL = "https://www.justaditya.com";
+const SITE_URL = "https://vishnukantsahil.online";
 
 export const viewport: Viewport = {
   themeColor: [

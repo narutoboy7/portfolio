@@ -103,7 +103,7 @@ export default function OgImage() {
                         display: "flex",
                     }}
                 >
-                    justaditya.com
+                    vishnukantsahil.online
                 </div>
             </div>
         ),
