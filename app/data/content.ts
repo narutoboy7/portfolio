@@ -48,7 +48,6 @@ export function getMarkdownContent(time: string, timezone: string): string {
 ## companies
 
     LeadSend          cold email infrastructure — campaigns across niches, at scale
-    GrowthBeam        growth consulting — helped clients add millions in revenue
     RootedHires       hiring agency + ATS — matching talent to companies that deserve them
     Dragonfruit       design & media studio — end-to-end for top 100 US MNCs
 
@@ -58,7 +57,8 @@ export function getMarkdownContent(time: string, timezone: string): string {
 
     BuzzedInbox       microsoft email infrastructure for outreach
     Artha             three functions. zero webhooks. stripe billing simplified.
-    NihongoBee        interactive japanese learning — A to Z  [building]
+    NihongoBee        interactive japanese learning — A to Z  https://nihonbee.com/
+    Klyra             AI-native B2B customer success & support platform  https://useklyra.com/
     Leadraft          B2B lead database  [building]
     DevBuddy          chrome extension for clean dev workflows
     True Humanizer    AI-to-human text — undetectable  [building]

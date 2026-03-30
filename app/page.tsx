@@ -103,10 +103,6 @@ export default function Home() {
       desc: "Cold email infrastructure. Campaigns across niches, at scale.",
     },
     {
-      name: "GrowthBeam",
-      desc: "Growth consulting. Helped clients add millions in revenue — 30-40% increases within months.",
-    },
-    {
       name: "RootedHires",
       url: "https://rootedhires.com/",
       desc: "Hiring agency and ATS. Matching talent to companies that actually deserve them.",
@@ -131,8 +127,13 @@ export default function Home() {
     },
     {
       name: "NihongoBee",
+      url: "https://nihonbee.com/",
       desc: "A-to-Z Japanese learning — interactive, comprehensive, under active development.",
-      badge: "Building",
+    },
+    {
+      name: "Klyra",
+      url: "https://useklyra.com/",
+      desc: "AI-native B2B customer success and support platform. One inbox, full intelligence.",
     },
     {
       name: "Leadraft",
